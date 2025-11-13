@@ -1,9 +1,16 @@
 [
-  {
-    "source": "curseforge",
-    "curseforge": {
-      "addonId": "448233",
-      "fileId": "7167826"
+    {
+        "source": "curseforge",
+        "curseforge": {
+            "addonId": "448233",
+            "fileId": "7167826"
+        }
+    },
+    {
+        "source": "curseforge",
+        "curseforge": {
+            "addonId": "1154099",
+            "fileId": "7215783"
+        }
     }
-  }
 ]
