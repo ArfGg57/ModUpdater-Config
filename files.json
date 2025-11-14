@@ -2,9 +2,9 @@
     "files": [
         {
             "since": "1.0.0",
-            "url": "https://example.com/configs/configs-v1.1.zip",
+            "url": "https://raw.githubusercontent.com/ArfGg57/ModUpdater-Config/refs/heads/main/files/file.txt",
             "downloadPath": "config/",
-            "name": "",
+            "name": "file123.txt",
             "overwrite": true,
             "extract": false
         }
