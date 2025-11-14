@@ -1,12 +1,12 @@
 {
-  "files": [
-    {
-      "since": "1.0.0",
-      "url": "https://example.com/configs/configs-v1.1.zip",
-      "downloadPath": "config/",
-      "name": "",
-      "overwrite": true,
-      "extract": false,
-    }
-  ]
+    "files": [
+        {
+            "since": "1.0.0",
+            "url": "https://example.com/configs/configs-v1.1.zip",
+            "downloadPath": "config/",
+            "name": "",
+            "overwrite": true,
+            "extract": false
+        }
+    ]
 }
