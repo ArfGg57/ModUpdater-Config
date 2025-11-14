@@ -3,5 +3,8 @@
   "configsBaseUrl": "https://raw.githubusercontent.com/YourOrg/ModPackConfigs/main/",
   "modsJson": "mods.json",
   "filesJson": "files.json",
-  "deletesJson": "deletes.json"
+  "deletesJson": "deletes.json",
+  "checkCurrentVersion": true,   // if true: perform correctness/repair checks even when versions match
+  "maxRetries": 3,
+  "backupKeep": 5                // optional: how many backup snapshots to keep
 }
