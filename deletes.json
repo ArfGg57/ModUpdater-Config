@@ -1,1 +1,10 @@
-
+{
+    "deletes": [
+        {
+            "since": "1.0.0",
+            "paths": [
+                "config/oof.txt"
+            ]
+        }
+    ]
+}
