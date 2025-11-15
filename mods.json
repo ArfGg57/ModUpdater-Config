@@ -20,5 +20,16 @@
             "projectSlug": "1.6.4-1.7.10",
             "versionId": "SLiFyIon"
         }
+    },
+    {
+        "since": "1.5.0",
+        "numberId": "3",
+        "installLocation": "mods",
+        "name": "",
+        "source": {
+            "type": "curseforge",
+            "projectId": 32274,
+            "fileId": 6706111
+        }
     }
 ]
