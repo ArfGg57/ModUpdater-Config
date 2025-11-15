@@ -1,26 +1,24 @@
-{
-    "mods": [
-        {
-            "since": "1.0.0",
-            "numberId": "1",
-            "installLocation": "mods",
-            "name": "",
-            "source": {
-                "type": "curseforge",
-                "projectId": 1154099,
-                "fileId": 7215783
-            }
-        },
-        {
-            "since": "1.0.0",
-            "numberId": "2",
-            "installLocation": "mods",
-            "name": "",
-            "source": {
-                "type": "modrinth",
-                "projectSlug": "1.6.4-1.7.10",
-                "versionId": "SLiFyIon"
-            }
+[
+    {
+        "since": "1.0.0",
+        "numberId": "1",
+        "installLocation": "mods",
+        "name": "",
+        "source": {
+            "type": "curseforge",
+            "projectId": 1154099,
+            "fileId": 7215783
         }
-    ]
-}
+    },
+    {
+        "since": "1.0.0",
+        "numberId": "2",
+        "installLocation": "mods",
+        "name": "",
+        "source": {
+            "type": "modrinth",
+            "projectSlug": "1.6.4-1.7.10",
+            "versionId": "SLiFyIon"
+        }
+    }
+]
