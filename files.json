@@ -1,12 +1,10 @@
-{
-    "files": [
-        {
-            "since": "1.0.0",
-            "url": "https://raw.githubusercontent.com/ArfGg57/ModUpdater-Config/refs/heads/main/files/file.txt",
-            "downloadPath": "config/",
-            "name": "file123.txt",
-            "overwrite": true,
-            "extract": false
-        }
-    ]
-}
+[
+    {
+        "since": "1.0.0",
+        "url": "https://raw.githubusercontent.com/ArfGg57/ModUpdater-Config/refs/heads/main/files/file.txt",
+        "downloadPath": "config/",
+        "name": "file123.txt",
+        "overwrite": true,
+        "extract": false
+    }
+]
