@@ -5,7 +5,7 @@
             "url": "https://raw.githubusercontent.com/ArfGg57/ModUpdater-Config/refs/heads/main/files/file.txt",
             "downloadPath": "config/",
             "file_name": "",
-            "display_name": ""
+            "display_name": "",
             "overwrite": true,
             "extract": false
         }
