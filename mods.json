@@ -16,7 +16,7 @@
         "numberId": "2",
         "installLocation": "mods",
         "file_name": "",
-        "display_name": "Entity Culling",
+        "display_name": "",
         "source": {
             "type": "modrinth",
             "projectSlug": "1.6.4-1.7.10",
