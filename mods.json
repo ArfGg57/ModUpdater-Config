@@ -16,11 +16,11 @@
         "numberId": "2",
         "installLocation": "mods",
         "file_name": "",
-        "display_name": "",
+        "display_name": "Entity Culling",
         "source": {
             "type": "modrinth",
             "projectSlug": "1.6.4-1.7.10",
-            "versionId": "Entity Culling"
+            "versionId": "SLiFyIon"
         }
     },
     {
