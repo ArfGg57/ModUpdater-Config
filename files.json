@@ -6,7 +6,7 @@
             "downloadPath": "config/",
             "file_name": "",
             "display_name": "",
-            "overwrite": true,
+            "overwrite": false,
             "extract": false
         }
     ]
