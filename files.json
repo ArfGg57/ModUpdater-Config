@@ -2,7 +2,7 @@
     "files": [
         {
             "since": "1.0.0",
-            "url": "https://raw.githubusercontent.com/ArfGg57/ModUpdater-Config/refs/heads/main/files/file.txt",
+            "url": "https://raw.githubusercontent.com/ArfGg57/ModUpdater-Config/refs/heads/main/files/woof.txt",
             "downloadPath": "config/",
             "file_name": "",
             "display_name": "",
