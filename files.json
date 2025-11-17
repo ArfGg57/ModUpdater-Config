@@ -8,15 +8,6 @@
       "display_name": "",
       "overwrite": true,
       "extract": false
-    },
-    {
-      "since": "1.0.0",
-      "url": "https://raw.githubusercontent.com/ArfGg57/ModUpdater-Config/refs/heads/main/files/woof.txt",
-      "downloadPath": "config/",
-      "file_name": "ohio",
-      "display_name": "yikes",
-      "overwrite": true,
-      "extract": false
     }
   ]
 }
