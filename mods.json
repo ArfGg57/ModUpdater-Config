@@ -25,14 +25,14 @@
   },
   {
     "modId": "mod3",
-    "since": "1.1.1",
+    "since": "1.1.2",
     "installLocation": "mods",
     "file_name": "",
     "display_name": "",
     "source": {
       "type": "curseforge",
-      "projectId": 243190,
-      "fileId": 4635415
+      "projectId": 431430,
+      "fileId": 4648627
     }
   }
 ]
