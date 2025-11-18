@@ -1,5 +1,5 @@
 {
-    "modpackVersion": "1.3.2",
+    "modpackVersion": "1.3.3",
     "configsBaseUrl": "https://raw.githubusercontent.com/ArfGg57/ModUpdater-Config/refs/heads/main/",
     "modsJson": "mods.json",
     "filesJson": "files.json",
