@@ -1,38 +1,38 @@
 [
-    {
-        "since": "1.1.0",
-        "numberId": "1",
-        "installLocation": "mods",
-        "file_name": "Dude",
-        "display_name": "Woof1",
-        "source": {
-            "type": "curseforge",
-            "projectId": 255308,
-            "fileId": 5789438,
-        }
-    },
-    {
-        "since": "1.1.0",
-        "numberId": "2",
-        "installLocation": "mods",
-        "file_name": "",
-        "display_name": "",
-        "source": {
-            "type": "modrinth",
-            "projectSlug": "1.6.4-1.7.10",
-            "versionId": "SLiFyIon"
-        }
-    },
-    {
-        "since": "1.1.0",
-        "numberId": "3",
-        "installLocation": "mods",
-        "file_name": "",
-        "display_name": "",
-        "source": {
-            "type": "curseforge",
-            "projectId": 32274,
-            "fileId": 6706111
-        }
+  {
+    "since": "1.1.0",
+    "numberId": "1",
+    "installLocation": "mods",
+    "file_name": "Dude",
+    "display_name": "Woof1",
+    "source": {
+      "type": "curseforge",
+      "projectId": 255308,
+      "fileId": 5789438
     }
+  },
+  {
+    "since": "1.1.0",
+    "numberId": "2",
+    "installLocation": "mods",
+    "file_name": "",
+    "display_name": "",
+    "source": {
+      "type": "modrinth",
+      "projectSlug": "1.6.4-1.7.10",
+      "versionId": "SLiFyIon"
+    }
+  },
+  {
+    "since": "1.1.0",
+    "numberId": "3",
+    "installLocation": "mods",
+    "file_name": "",
+    "display_name": "",
+    "source": {
+      "type": "curseforge",
+      "projectId": 32274,
+      "fileId": 6706111
+    }
+  }
 ]
