@@ -6,5 +6,5 @@
     "deletesJson": "deletes.json",
     "checkCurrentVersion": true,
     "maxRetries": 3,
-    "backupKeep": 5,
+    "backupKeep": 5
 }
