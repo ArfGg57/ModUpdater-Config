@@ -1,7 +1,7 @@
 [
   {
+    "modId": "mod1",
     "since": "1.1.0",
-    "numberId": "1",
     "installLocation": "mods",
     "file_name": "",
     "display_name": "Woof1",
@@ -12,8 +12,8 @@
     }
   },
   {
+    "modId": "mod2",
     "since": "1.1.0",
-    "numberId": "2",
     "installLocation": "mods",
     "file_name": "",
     "display_name": "",
@@ -24,8 +24,8 @@
     }
   },
   {
+    "modId": "mod3",
     "since": "1.1.1",
-    "numberId": "3",
     "installLocation": "mods",
     "file_name": "",
     "display_name": "",
