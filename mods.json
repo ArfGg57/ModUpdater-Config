@@ -27,7 +27,7 @@
     },
     {
         "numberId": "mod3",
-        "since": "1.1.3",
+        "since": "1.1.4",
         "installLocation": "mods",
         "file_name": "",
         "display_name": "",
