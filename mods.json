@@ -31,11 +31,11 @@
         "installLocation": "mods",
         "file_name": "",
         "display_name": "",
-        "hash": "c3b69102d04c78ac2e79d9593b72238fa3faa69b1d0d0a9c05961f63b10845df",
+        "hash": "e970135ffaeee32df8514d3439f97dd8db55e1db63b6ca2672b4b7c31306e1d7",
         "source": {
             "type": "curseforge",
-            "projectId": 608235,
-            "fileId": 5051782
+            "projectId": 345779,
+            "fileId": 4480767
         }
     }
 ]
