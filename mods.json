@@ -1,6 +1,6 @@
 [
   {
-    "modId": "mod1",
+    "numberId": "mod1",
     "since": "1.1.0",
     "installLocation": "mods",
     "file_name": "",
@@ -12,7 +12,7 @@
     }
   },
   {
-    "modId": "mod2",
+    "numberId": "mod2",
     "since": "1.1.0",
     "installLocation": "mods",
     "file_name": "",
@@ -24,7 +24,7 @@
     }
   },
   {
-    "modId": "mod3",
+    "numberId": "mod3",
     "since": "1.1.3",
     "installLocation": "mods",
     "file_name": "",
