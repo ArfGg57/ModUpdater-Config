@@ -5,6 +5,7 @@
     "installLocation": "mods",
     "file_name": "",
     "display_name": "Woof1",
+    "hash": "a5a1036ef9f163509cdd17b1e1ccb5c47f5822be514b356aaa0b580e7fb5566e"
     "source": {
       "type": "curseforge",
       "projectId": 255308,
@@ -17,6 +18,7 @@
     "installLocation": "mods",
     "file_name": "",
     "display_name": "",
+    "hash": "dd1b15c1abfe3756051987c17924810a4e433a26c29b5defdeccedced15567e7"
     "source": {
       "type": "modrinth",
       "projectSlug": "1.6.4-1.7.10",
@@ -29,6 +31,7 @@
     "installLocation": "mods",
     "file_name": "",
     "display_name": "",
+    "hash": "5cb06bc01865f94778f9c2d37c5273e079bc45f94f54f532258bba22360484b1"
     "source": {
       "type": "curseforge",
       "projectId": 927564,
