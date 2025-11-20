@@ -1,7 +1,7 @@
 [
     {
         "numberId": "mod1",
-        "since": "1.1.0",
+        "since": "1.1.5",
         "installLocation": "mods",
         "file_name": "oopsyather",
         "display_name": "Woof1",
