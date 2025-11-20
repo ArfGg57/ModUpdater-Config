@@ -1,5 +1,6 @@
 {
     "modpackVersion": "1.1.5",
+    "debugMode": true,
     "configsBaseUrl": "https://raw.githubusercontent.com/ArfGg57/ModUpdater-Config/refs/heads/main/",
     "modsJson": "mods.json",
     "filesJson": "files.json",
