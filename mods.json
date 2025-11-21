@@ -18,19 +18,6 @@
         "installLocation": "mods",
         "file_name": "",
         "display_name": "",
-        "hash": "dd1b15c1abfe3756051987c17924810a4e433a26c29b5defdeccedced15567e7",
-        "source": {
-            "type": "modrinth",
-            "projectSlug": "1.6.4-1.7.10",
-            "versionId": "SLiFyIon"
-        }
-    },
-    {
-        "numberId": "mod3",
-        "since": "1.1.7",
-        "installLocation": "mods",
-        "file_name": "",
-        "display_name": "",
         "hash": "75ab193022070c547a31eccf2de3f58459403bff218888f8f4216c7d585765d6",
         "source": {
             "type": "curseforge",
