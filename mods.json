@@ -27,15 +27,15 @@
     },
     {
         "numberId": "mod3",
-        "since": "1.1.6",
+        "since": "1.1.7",
         "installLocation": "mods",
         "file_name": "",
         "display_name": "",
-        "hash": "0b8958bd9b55a9e0765298e6b4fa86a14bf4fb89c617be29c1639768dd1c406a",
+        "hash": "75ab193022070c547a31eccf2de3f58459403bff218888f8f4216c7d585765d6",
         "source": {
             "type": "curseforge",
-            "projectId": 576825,
-            "fileId": 3652651
+            "projectId": 243190,
+            "fileId": 4635415
         }
     }
 ]
