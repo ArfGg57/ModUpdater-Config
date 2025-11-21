@@ -14,15 +14,15 @@
     },
     {
         "numberId": "mod2",
-        "since": "1.1.0",
+        "since": "1.1.8",
         "installLocation": "mods",
         "file_name": "",
         "display_name": "",
-        "hash": "dd1b15c1abfe3756051987c17924810a4e433a26c29b5defdeccedced15567e7",
+        "hash": "e970135ffaeee32df8514d3439f97dd8db55e1db63b6ca2672b4b7c31306e1d7",
         "source": {
-            "type": "modrinth",
-            "projectSlug": "1.6.4-1.7.10",
-            "versionId": "SLiFyIon"
+            "type": "curseforge",
+            "projectId": "345779",
+            "fileId": "4480767"
         }
     },
     {
