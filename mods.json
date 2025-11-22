@@ -1,19 +1,6 @@
 [
     {
         "numberId": "mod1",
-        "since": "1.1.5",
-        "installLocation": "mods",
-        "file_name": "oopsyather",
-        "display_name": "dude",
-        "hash": "a5a1036ef9f163509cdd17b1e1ccb5c47f5822be514b356aaa0b580e7fb5566e",
-        "source": {
-            "type": "curseforge",
-            "projectId": 255308,
-            "fileId": 5875775
-        }
-    },
-    {
-        "numberId": "mod2",
         "since": "1.1.8",
         "installLocation": "mods",
         "file_name": "",
