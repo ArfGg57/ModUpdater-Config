@@ -3,13 +3,13 @@
         "numberId": "mod2",
         "since": "1.1.8",
         "installLocation": "mods",
-        "file_name": "",
-        "display_name": "",
-        "hash": "75ab193022070c547a31eccf2de3f58459403bff218888f8f4216c7d585765d6",
+        "file_name": "Plonk",
+        "display_name": "Plonk",
+        "hash": "e970135ffaeee32df8514d3439f97dd8db55e1db63b6ca2672b4b7c31306e1d7",
         "source": {
             "type": "curseforge",
-            "projectId": 243190,
-            "fileId": 4635415
+            "projectId": 345779,
+            "fileId": 4480767
         }
     }
 ]
