@@ -1,15 +1,15 @@
 [
     {
         "numberId": "mod2",
-        "since": "1.1.9",
+        "since": "1.1.10",
         "installLocation": "mods",
-        "file_name": "Culling",
-        "display_name": "Culling",
-        "hash": "c7bb6f1b137c5d01cffbc1775ffc2a1c562404c3b4342f56783e0d83036bbd4d",
+        "file_name": "Shoulders",
+        "display_name": "Shoulders",
+        "hash": "75ab193022070c547a31eccf2de3f58459403bff218888f8f4216c7d585765d6",
         "source": {
             "type": "curseforge",
-            "projectId": 448233,
-            "fileId": 5351930
+            "projectId": 243190,
+            "fileId": 4635415
         }
     }
 ]
