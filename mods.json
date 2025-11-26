@@ -1,15 +1,15 @@
 [
     {
         "numberId": "mod2",
-        "since": "1.1.8",
+        "since": "1.1.9",
         "installLocation": "mods",
-        "file_name": "Plonk",
-        "display_name": "Plonk",
-        "hash": "e970135ffaeee32df8514d3439f97dd8db55e1db63b6ca2672b4b7c31306e1d7",
+        "file_name": "Culling",
+        "display_name": "Culling",
+        "hash": "c7bb6f1b137c5d01cffbc1775ffc2a1c562404c3b4342f56783e0d83036bbd4d",
         "source": {
             "type": "curseforge",
-            "projectId": 345779,
-            "fileId": 4480767
+            "projectId": 448233,
+            "fileId": 5351930
         }
     }
 ]
