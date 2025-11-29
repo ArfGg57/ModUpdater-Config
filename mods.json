@@ -1,7 +1,7 @@
 [
     {
         "numberId": "mod2",
-        "since": "1.1.10",
+        "since": "1.0.1",
         "installLocation": "mods",
         "file_name": "Shoulders",
         "display_name": "Shoulders",
