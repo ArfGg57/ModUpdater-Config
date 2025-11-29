@@ -2,7 +2,7 @@
     "safetyMode": true,
     "deletions": [
         {
-            "version": "1.0.1",
+            "version": "1.0.2",
             "paths": [
                 {
                     "type": "file",
